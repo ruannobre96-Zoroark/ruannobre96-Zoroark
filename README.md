@@ -1,8 +1,9 @@
-Bem vindos ao meu perfil ✨
-Sou um estudante de programação com muita curiosidade.
+Ladies and Gentlemen,
+I am a programming student with a lot of curiosity.
+I do not have professional experience yet. I am currently a technical student in Systems Development at Firjan Senai Sesi.
+I am interested in eventually working as a Full Stack Developer, but I am currently focusing on Front-End.
+I am currently studying JavaScript, CSS3, and HTML.
+Feel free to take a look at my portfolio.
 
-Ainda não tenho experiência profissional mas faço uns html e css artezanais. Hoje sou aluno de desenvolvimento de sistemas pela Firjan Senai Sesi.Estudo também por algumas plataformas digitais como Alura, youtube e Udemy. 👀 Tenho interesse de algum dia trabalhar como full stack developer mas estou focando no back-end, porém, tenho projetos prontos e em andamento no front-end, fique a vontade para dar uma olhada.🌱
-
-Atualmente estudando JavaScript, Java e reforçando meu conhecimento em CSS e HTML.
-
+https://ruannobre96-zoroark.github.io/Portf-lio/
   
