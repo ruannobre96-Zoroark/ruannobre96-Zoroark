@@ -6,4 +6,6 @@ I am currently studying JavaScript, CSS3, and HTML.
 Feel free to take a look at my portfolio.
 
 https://ruannobre96-zoroark.github.io/Portf-lio/
-  
+
+<img width="474" height="687" alt="image" src="https://github.com/user-attachments/assets/b34af724-6956-4ab5-8f97-c68b2ce893d8" />
+
